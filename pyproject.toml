@@ -10,6 +10,12 @@ jupyterlab = "^3.4.7"
 pydantic = "^1.10.2"
 tabulate = "^0.8.10"
 pandoc = "^2.2"
+GitPython = "^3.1.27"
+semver = "^2.13.0"
+matplotlib = "^3.6.0"
+requests = "^2.28.1"
+pandas = "^1.5.3"
+jsbeautifier = "^1.14.7"
 
 [tool.poetry.dev-dependencies]
 
